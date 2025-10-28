@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode;
+package com.collicode.algodatastructure.leetcode.twopointers;
 
 import java.util.HashMap;
 import java.util.Map;
