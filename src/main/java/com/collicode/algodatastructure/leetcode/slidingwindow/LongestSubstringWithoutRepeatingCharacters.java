@@ -9,9 +9,6 @@ public class LongestSubstringWithoutRepeatingCharacters {
         int maxLength = 0;
         int start = 0;
 
-        if (s == null) {
-            return 0; // optional safety check
-        }
 
         for (int end = 0; end < s.length(); end++) {
 
