@@ -1,6 +1,7 @@
 package com.collicode.algodatastructure.leetcode.twopointers;
 
 class Subsequence {
+
     public boolean isSubsequence(String s, String t) {
         int i = 0; // pointer for s
         int j = 0; // pointer for t
