@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.slidingwindow;
+package com.collicode.algodatastructure.leetcode.arraysandstrings.slidingwindow;
 
 public class MinimumSizeSubarraySum {
     public int minSubArrayLen(int target, int[] nums) {

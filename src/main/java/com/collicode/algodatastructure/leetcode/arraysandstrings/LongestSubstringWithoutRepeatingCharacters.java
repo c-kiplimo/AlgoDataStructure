@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.slidingwindow;
+package com.collicode.algodatastructure.leetcode.arraysandstrings;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.slidingwindow;
+package com.collicode.algodatastructure.leetcode.arraysandstrings;
 
 public class MaximumSubarray {
     public int maxSubArray(int[] nums) {

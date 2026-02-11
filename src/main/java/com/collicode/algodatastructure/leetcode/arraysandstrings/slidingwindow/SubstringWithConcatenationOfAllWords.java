@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.slidingwindow;
+package com.collicode.algodatastructure.leetcode.arraysandstrings.slidingwindow;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 public class SubstringWithConcatenationOfAllWords {
-    
+
 
     public List<Integer> findSubstring(String s, String[] words) {
         List<Integer> result = new ArrayList<>();
