@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.twopointers;
+package com.collicode.algodatastructure.leetcode.arraysandstrings;
 
 class ValidPalindrome {
     public boolean isPalindrome(String s) {
