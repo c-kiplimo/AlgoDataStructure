@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.arraysandstrings;
+package com.collicode.algodatastructure.prep.week1;
 
 import java.util.HashSet;
 

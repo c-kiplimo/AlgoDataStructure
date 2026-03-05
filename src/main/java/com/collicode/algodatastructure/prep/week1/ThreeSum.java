@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.leetcode.twopointers;
+package com.collicode.algodatastructure.prep.week1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
