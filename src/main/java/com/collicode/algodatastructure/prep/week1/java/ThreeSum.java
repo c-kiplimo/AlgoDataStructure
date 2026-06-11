@@ -1,4 +1,4 @@
-package com.collicode.algodatastructure.prep.week1;
+package com.collicode.algodatastructure.prep.week1.java;
 
 import java.util.ArrayList;
 import java.util.Arrays;
